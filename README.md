@@ -15,4 +15,4 @@ The vision of this project is to implement an universal platform which can be us
 
 
 # Author
-Norman Rembarz <norman.rembarz@olanis.de>
+Norman Rembarz <n.rembarz@me.com>
